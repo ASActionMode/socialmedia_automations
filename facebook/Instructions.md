@@ -4,15 +4,15 @@
 
 1. To use this method you need to go to [https://download-directory.github.io/](https://download-directory.github.io/)
 2. And Paste [ https://github.com/ASActionMode/socialmedia_automations/edit/main/facebook](https://github.com/ASActionMode/socialmedia_automations/edit/main/facebook) In the Box.
-3. Wait few seconds, and the "facebook" ZIP will downloaded.
-4. Unzip/Extract the .zip folder.
+3. Wait few seconds, and the folder inside the ZIP file will be downloaded.
+4. Unzip/Extract the .zip folder into an Empty folder. (Create a new or use an existing empty folder of your choice.)
 
 ### Step 2:
 
 1. Head to your Browser.
 2. Click on the Three dots in the corner of the Browser window.
 3. Click "Extensions" and then "Manage extensions"
-4. Here you're gonna need to enable the "Developer Mode": To do that click on the Toggle at the right corner of your screen. Saying "Developer mode"
+4. Here you're going to need to enable the "Developer Mode": To do that click on the Toggle at the right corner of your screen. Saying "Developer mode"
 5. After enabling Developer mode, you'll get three new options, "Load unpacked" and "Pack extension" and "Update".
 6. Click on "Load unpacked" and head to the Folder where the files you've extracted from ZIP are located. And select that folder after that click "Select folder"
 7. It will load the extension on your PC's Browser. Now make sure Extension is toggled ON.
