@@ -1,6 +1,6 @@
-(function() {
+(function() { // This script is the main script. Resposible for what extension will do.
   let actionChoice = prompt("What would you like to do?\n1. Accept Friend Requests\n2. Send Friend Requests\n3. Both (Accept and Send)", "3");
-
+  // You can also copy and Paste this script into Facebook's friends page, to run this directly. Check Instructions.md for more info.
   let total = parseInt(prompt("Total requests?", 50));
   let increaseDelayAfter = parseInt(prompt("After how many requests do you want to increase the delay?", 15));
   let initialDelay = parseInt(prompt("Enter your initial delay (in seconds)", 120)) * 1000;
