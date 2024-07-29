@@ -1,0 +1,24 @@
+(C) AS ActionMode 2024
+
+To use this script, you need to:
+1. Open the Facebook page where you want to accept/send friend requests.
+2. Open the Inspect window, head to the console (F12 / Ctrl + Shift + I), and paste the code. Press enter.
+3. A browser prompt will pop up
+    3.1: It would ask you what do you want to do.
+    (Accept Friend Requests / Send Friend Requests / Both)
+    3.2: It will ask you how many total requests you want to send/accept.
+    3.3: It will ask you after how many requests do you want to increase the delay.
+    3.4: It will ask you, what should be your initial delay (Normal delay, whatever you enter here, the script will start with that delay)
+    3.5: It will ask you what should be your Increased Delay.
+4. The script should start doing its actions.
+
+Make sure there are profiles or buttons on the page.
+Like if you want to accept requests there should be requests on your current page.
+If you want to send requests, there should be an Add Friend button to send requests on your current page.
+Then you can rest assured script will complete your task and then stop automatically.
+You can see the progress in the console.
+
+Additional functions, type these on the console window to perform these actions:
+pauseScript() - Pauses the script at its current progress.
+resumeScript() - Type this to Resumes the script after you pause it on its current progress.
+stopScript() - Permanently Stops the script and it cannot be resumed once its stopped.
