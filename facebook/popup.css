@@ -1,0 +1,112 @@
+/* popup.css */
+body {
+  /* font-family: 'Inter', 'Roboto', sans-serif;
+  [!] I scrapped this font for a better looking one*/
+  font-family: "Arial Narrow", Arial, sans-serif;
+  width: 320px;
+  margin: 0;
+  padding: 20px;
+  background-color: #1a1a1a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+}
+
+h2 {
+  color: #ffffff;
+  margin-bottom: 24px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+p {
+  color: white;
+  font-size: 16px;
+}
+
+a {
+  color:rgb(255, 242, 0); /* used VS code's inbuilt color grader. cuz why not*/
+  /* end */
+}
+
+a:hover {
+  color: aqua;
+}
+
+button {
+  margin: 12px 0;
+  padding: 12px 24px;
+  width: auto;
+  border: none;
+  border-radius: 25px;
+  background: linear-gradient(90deg, #3a3af7, #da4df7);
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer; /* originally it as "cursor: wait;" I dont know why I added a wait cursor type instead of poiter one. anyway its fixed now. why I am writting a story here. */
+  transition: all 0.9s ease; 
+  position: relative;
+  overflow: hidden;
+}
+
+button::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(90deg, #3a3af7, #da4df7);
+  z-index: -1;
+  filter: blur(10px);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+button:hover::before {
+  opacity: 1;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 15px rgba(218, 77, 247, 0.5);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+/* a subtle background pattern */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(circle at 25px 25px, #333 2%, transparent 0%),
+    radial-gradient(circle at 75px 75px, #333 2%, transparent 0%);
+  background-size: 100px 100px;
+  opacity: 0.1;
+  z-index: -1;
+}
+
+/* a cool looking fade-in animation for the container to flex the skills */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.container {
+  animation: fadeIn 1.3s ease-out;
+  /* its my personal choice to put it at 1.3
+  can add any delay. but making sure to save the script itself.
+  otherwise change won't be visible */
+} /* CSS END */
