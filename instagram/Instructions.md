@@ -1,7 +1,10 @@
 (C) AS ActionMode 2024https://github.com/ASActionMode/socialmedia_automations/tree/main
 
 **THIS EXTENSION IS BASED ON FACEBOOK AUTOMATION EXTENSION**
-*I created this script because that script was only specially designed for Facebook. I might merge both later.*
+*I created this script because that extension was only specially designed for Facebook. I might merge both later.*
+*Also there were more things to be changed for that extension to work on Instagram, it requires a lot of debugging & testing. It's already done so yeah! :)*
+
+## Install process will be same for both scripts after all.
 
 # First Method: Extension (Easy)
 
