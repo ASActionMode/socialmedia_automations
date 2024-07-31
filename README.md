@@ -13,7 +13,12 @@ You can contribute to this project by contacting me on Discord and reaching out 
 **Who developed this? And how can I use this extension?**
 I (AS ActionMode) developed this extension, and yes, it's only me. I don't have a team of 50 or 100 people to help me program these extensions.
 
-It's available under the my own License because this project is meant for personal use. Those who have enough knowledge to customize this extension can do so, but making it public without my permission is not allowed. You are free to use, customize, and modify the extension for *YOUR* personal or your team's usage, if you want to make your modification public, you can directly contact me, and I am kind enough to specifically permit you. 
+It's available under my License because this project is meant for personal use. Those who have enough knowledge to customize this extension can do so, but making it public without my permission is not allowed. You are free to use, customize, and modify the extension for *YOUR* personal or your team's usage, if you want to make your modification public, you can directly contact me, and I am kind enough to specifically permit you. 
 However, if you go against these terms, I will terminate your license.
 
+**DISCORD:** [https://discord.gg/JVGpAfetHh](https://discord.gg/JVGpAfetHh)
+## Change Logs
+OVERALL REPOSITORY:
+- Added Instagram Automation Bot to the repository.
+- Added Discord Join Link.
 
