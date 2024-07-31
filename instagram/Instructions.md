@@ -1,4 +1,4 @@
-(C) AS ActionMode 2024https://github.com/ASActionMode/socialmedia_automations/tree/main
+(C) AS ActionMode 2024
 
 **THIS EXTENSION IS BASED ON FACEBOOK AUTOMATION EXTENSION**
 *I created this script because that extension was only specially designed for Facebook. I might merge both later.*
