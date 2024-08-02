@@ -3,7 +3,7 @@
 # First Method: Extension (Easy)
 
 1. To use this method you need to go to [https://download-directory.github.io/](https://download-directory.github.io/)
-2. And Paste [ https://github.com/ASActionMode/socialmedia_automations/edit/main/facebook](https://github.com/ASActionMode/socialmedia_automations/edit/main/facebook) In the Box.
+2. And Paste [https://github.com/ASActionMode/socialmedia_automations/tree/main/facebook](https://github.com/ASActionMode/socialmedia_automations/tree/main/facebook) In the Box.
 3. Wait few seconds, and the folder inside the ZIP file will be downloaded.
 4. Unzip/Extract the .zip folder into an Empty folder. (Create a new or use an existing empty folder of your choice.)
 
