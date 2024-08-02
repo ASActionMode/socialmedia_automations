@@ -12,21 +12,33 @@
 1. Head to your Browser.
 2. Click on the Three dots in the corner of the Browser window.
 3. Click "Extensions" and then "Manage extensions"
+![image](https://github.com/user-attachments/assets/c92e675d-5e53-4ef0-8882-2f41e539d332)
+
+
+
+
 4. Here you're going to need to enable the "Developer Mode": To do that click on the Toggle at the right corner of your screen. Saying "Developer mode"
 5. After enabling Developer mode, you'll get three new options, "Load unpacked" and "Pack extension" and "Update".
-6. Click on "Load unpacked" and head to the Folder where the files you've extracted from ZIP are located. And select that folder after that click "Select folder"
-7. It will load the extension on your PC's Browser. Now make sure Extension is toggled ON.
-8. Click on Extension and then go to [facebook.com/friends](https://www.facebook.com/friends)
+6. Like this:
+7. ![image](https://github.com/user-attachments/assets/1704ca3d-e6b9-4737-910a-c80de228b238)
+
+8. Click on "Load unpacked" and head to the Folder where the files you've extracted from ZIP are located. And select that folder after that click "Select folder"
+9. ![image](https://github.com/user-attachments/assets/7ff01f54-78a6-4f58-b9d3-8dd9a1139894)
+
+10. It will load the extension on your PC's Browser. Now make sure Extension is toggled ON.
+11. ![image](https://github.com/user-attachments/assets/45cae61e-165e-41b6-94ec-e7172272fd40)
+
+12. Click on Extension and then go to [facebook.com/friends](https://www.facebook.com/friends)
    (Make sure you're logged into the Facebook.)
-9. Click on "Start" start it, "Pause" to pause it, "Resume" to resume it, "Stop" to stop it.
-10. A browser prompt will pop up
+13. Click on "Start" start it, "Pause" to pause it, "Resume" to resume it, "Stop" to stop it.
+14. A browser prompt will pop up
 10.1: It would ask you what do you want to do.
 (Accept Friend Requests / Send Friend Requests / Both)
 10.2: It will ask you how many total requests you want to send/accept.
 10.3: It will ask you how many requests you want to increase the delay.
 10.4: It will ask you, what should be your initial delay (Normal delay, whatever you enter here, the script will start with that delay)
 10.5: It will ask you what should be your Increased Delay.
-11. The script should start doing its actions.
+15. The script should start doing its actions.
 
 # Second Method: Use Script Manually (Medium)
 
